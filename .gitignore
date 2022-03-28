@@ -1,0 +1,7 @@
+data/
+test/
+train/
+valid/
+runs/
+models/
+__pycache__/
