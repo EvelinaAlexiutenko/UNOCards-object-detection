@@ -5,12 +5,18 @@ This repository about UNO object detection with YOLOv5 and real-time webcam bbox
 
 [Real-time detection without GPU](https://youtu.be/l3xqD581TQc)
 
+![999280053_jpg rf a4c96f104ecca8018ff3683966b87d95](https://user-images.githubusercontent.com/58363847/160475467-cb08ee61-64bd-425f-a152-0059c3a6d2e7.jpg)
+
 <details>
   <summary><em>Data preparation</em></summary>
-  Using the reference materials, you can find a link to the dataset. You can preprocess dataset in roboflow. As you know YOLOv5 еakes image size 416x416, so I     resized it to this size. To use the dataset you need to click as in the following photos:
+  Using the reference materials, you can find a link to the dataset. 
+  You can preprocess dataset in roboflow. As you know YOLOv5 еakes image size 416x416, so I resized it to this size. 
+  To use the dataset you need to click as in the following photos:<br>
   
-
-
+  <img src="https://user-images.githubusercontent.com/58363847/160475585-1f60c6a0-4c6f-411b-bed2-532f7fa10b84.png" data-canonical src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
+  
+  <img src="https://user-images.githubusercontent.com/58363847/160475594-29a19d80-57c2-4d2f-91d2-d869d3a397c6.png" data-canonical src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
+  
 </details>
 <details>
   <summary><em>Train and test the model</em></summary>
