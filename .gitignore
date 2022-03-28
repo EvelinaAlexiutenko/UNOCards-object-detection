@@ -1,7 +1,10 @@
+# Data Set with images
 data/
 test/
 train/
 valid/
 runs/
 models/
+
+# Python files
 __pycache__/
