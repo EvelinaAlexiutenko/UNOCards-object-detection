@@ -2,7 +2,7 @@
 This repository about UNO object detection with YOLOv5 and real-time webcam bbox draw.
 
 
-![Real-time detection without GPU](https://user-images.githubusercontent.com/58363847/160473062-77fae549-912c-4ab9-88a9-8e5e7b984680.mp4)
+[Real-time detection without GPU](https://youtu.be/l3xqD581TQc)
 
 <details>
   <summary><em>Data preparation</em></summary>
