@@ -6,10 +6,13 @@
 To see the video of webcam real-time detection click:<br>
 [Real-time detection without GPU](https://youtu.be/l3xqD581TQc)
 
+## Example of cards detection:
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/58363847/160476719-13fa8850-4a6b-4691-8b5a-b79a6f38fd14.jpg" width="200" height="200" />
-  <img src="https://user-images.githubusercontent.com/58363847/160477051-813470d6-4059-47d0-ab1e-89456c4a2255.jpg" width="200" height="200" />
-  <img src="https://user-images.githubusercontent.com/58363847/160476703-c8b7141b-b872-4965-bf10-49c661ea4b10.jpg" width="200" height="200" />
+  <img src="https://user-images.githubusercontent.com/58363847/160476719-13fa8850-4a6b-4691-8b5a-b79a6f38fd14.jpg" width="170" height="170" />
+  <img src="https://user-images.githubusercontent.com/58363847/160477051-813470d6-4059-47d0-ab1e-89456c4a2255.jpg" width="170" height="170" />
+  <img src="https://user-images.githubusercontent.com/58363847/160476703-c8b7141b-b872-4965-bf10-49c661ea4b10.jpg" width="170" height="170" />
+  <img src="https://user-images.githubusercontent.com/58363847/160478994-80bdf74b-3b31-4524-83e6-f60602956962.jpg" width="170" height="170" />
+  <img src="https://user-images.githubusercontent.com/58363847/160479005-3ec6341a-8c97-4532-8bf9-daebef819680.jpg" width="170" height="170" />
 </p>
 
 <details>
@@ -27,7 +30,10 @@ To see the video of webcam real-time detection click:<br>
   <summary><em>Train and test the model</em></summary>
   To see how to define model configuration and architecture, train and detect model you need to clone my repo and open file "Train_Yolov5.ipynb".
   In folder weights I saved my post-train weights. You can use them or save your.
-  
+  <br>
+  Result:
+  <br>
+  <img src="https://user-images.githubusercontent.com/58363847/160479943-216305e3-994a-4d3a-b8f4-77b10f99df99.png"/>
   </details>
 <details>
   <summary><em>Real-time webcam detection</em></summary>
@@ -36,18 +42,31 @@ To see the video of webcam real-time detection click:<br>
   </details>
 <details>
   <summary><em>References</em></summary>
+  
   1. https://public.roboflow.com/object-detection/uno-cards - Uno cards dataset;
+  
   2. https://github.com/ultralytics/yolov5 - Original repo of YOLOv5;
+  
   3. https://models.roboflow.com/ - Model zoo from roboflow;
+  
   4. https://www.youtube.com/watch?v=nDPWywWRIRo&t=3256s&ab_channel=StanfordUniversitySchoolofEngineering - Basic Object Detection knowledge;
+  
   5. https://www.youtube.com/watch?v=MdF6x6ZmLAY&t=1508s - Yolov5 tutorial;
+  
   6. https://www.youtube.com/watch?v=NU9Xr_NYslo&t=607s - Yolov5 tutorial;
+ 
   7. https://www.youtube.com/watch?v=yfDjsuxIKA4&t=2718s - Training other models using Tensorflow Object Detection;
+  
   8. https://www.youtube.com/watch?v=pnntrewH0xg&t=151s - Example of web-app for testing your model;
+  
   9. https://www.youtube.com/watch?v=TB-fdISzpHQ&t=3717s - Another Basic Object Detection knowledge;
-  10. https://towardsdatascience.com/yolo-v4-or-yolo-v5-or-pp-yolo-dad8e40f7109 - Difference between the last YOLO-type models
+  
+  10. https://towardsdatascience.com/yolo-v4-or-yolo-v5-or-pp-yolo-dad8e40f7109 - Difference between the last YOLO-type models;
+  
   11. https://techzizou.com/category/object-detection/ - Web app on tf2;
+  
   12. https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md - model zoo(tf2);
+  </ul>
 </details>
 
 
