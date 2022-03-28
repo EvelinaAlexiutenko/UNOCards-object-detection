@@ -1,6 +1,6 @@
 # UNOCards-object-detection
 This repository about UNO object detection with YOLOv5 and real-time webcam bbox draw.
-# References:
+* References:
 https://public.roboflow.com/object-detection/uno-cards - Uno cards dataset;
 https://github.com/ultralytics/yolov5 - Original repo of YOLOv5;
 https://models.roboflow.com/ - Model zoo from roboflow;
