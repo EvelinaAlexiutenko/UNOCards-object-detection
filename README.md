@@ -1,13 +1,29 @@
 # UNOCards-object-detection
 This repository about UNO object detection with YOLOv5 and real-time webcam bbox draw.
+
+
+![Real-time detection without GPU](https://user-images.githubusercontent.com/58363847/160473062-77fae549-912c-4ab9-88a9-8e5e7b984680.mp4)
+
 <details>
   <summary><em>Data preparation</em></summary>
-  Using the reference materials, you can find a link to the dataset.
+  Using the reference materials, you can find a link to the dataset. You can preprocess dataset in roboflow. As you know YOLOv5 еakes image size 416x416, so I     resized it to this size. To use the dataset you need to click as in the following photos:
+  
+
 
 </details>
 <details>
-  <summary><em>References</em></summary>
+  <summary><em>Train and test the model</em></summary>
+  To see how to define model configuration and architecture, train and detect model you need to clone my repo and open file "Train_Yolov5.ipynb".
+  In folder weights I saved my post-train weights. You can use them or save your.
   
+  </details>
+<details>
+  <summary><em>Real-time webcam detection</em></summary>
+  To see how to define model configuration and architecture, train and detect model you need to clone my repo and open file Real_time_webcam_Yolov5.ipynb.
+  This notebook is using file webcamdetect.py where you may find necessary functions.
+  </details>
+<details>
+  <summary><em>References</em></summary>
   1. https://public.roboflow.com/object-detection/uno-cards - Uno cards dataset;
   2. https://github.com/ultralytics/yolov5 - Original repo of YOLOv5;
   3. https://models.roboflow.com/ - Model zoo from roboflow;
