@@ -12,7 +12,6 @@ To see the video of webcam real-time detection click:<br>
   <img src="https://user-images.githubusercontent.com/58363847/160477051-813470d6-4059-47d0-ab1e-89456c4a2255.jpg" width="170" height="170" />
   <img src="https://user-images.githubusercontent.com/58363847/160476703-c8b7141b-b872-4965-bf10-49c661ea4b10.jpg" width="170" height="170" />
   <img src="https://user-images.githubusercontent.com/58363847/160478994-80bdf74b-3b31-4524-83e6-f60602956962.jpg" width="170" height="170" />
-  <img src="https://user-images.githubusercontent.com/58363847/160479005-3ec6341a-8c97-4532-8bf9-daebef819680.jpg" width="170" height="170" />
 </p>
 
 <details>
