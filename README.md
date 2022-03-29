@@ -30,7 +30,10 @@ To see the video of webcam real-time detection click:<br>
   To see how to define model configuration and architecture, train and detect model you need to clone my repo and open file "Train_Yolov5.ipynb".
   In folder weights I saved my post-train weights. You can use them or save your.
   <br>
-  Result:
+  Sample result(trainbatch):
+  <img src="https://user-images.githubusercontent.com/58363847/160628173-d09993c5-420c-4478-8d85-8d82823ce914.jpg"/>
+  <br>
+  Dependence of metrics on the number of epochs:
   <br>
   <img src="https://user-images.githubusercontent.com/58363847/160479943-216305e3-994a-4d3a-b8f4-77b10f99df99.png"/>
   </details>
