@@ -1,23 +1,25 @@
-coremltools==5.2.0
-Cython
-ipython==8.2.0
-matplotlib==3.2.2
-numpy==1.21.5
-onnx==1.11.0
-opencv_contrib_python==4.1.2.30
-pandas==1.3.5
-Pillow==9.0.1
-protobuf==3.19.4
-pycocotools==2.0.4
-PyYAML==6.0
-requests==2.23.0
-scipy==1.4.1
-seaborn==0.11.2
-scikit-learn==0.19.2 
-setuptools==57.4.0
-thop==0.0.31-2005241907
-torch==1.10.0+cu111
-tensorboard>=2.2
-torchvision==0.11.1+cu111
-tqdm==4.63.0
-wandb==0.12.11
+coremltools>=4.1 # CoreML export			
+Cython>=0.29.28			
+ipython==8.2.0		#for using %%time	
+matplotlib>=3.2.2			
+numpy>=1.18.5			
+onnx>=1.9.0 # ONNX export			
+opencv-python>=4.1.2			
+pandas>=1.1.4			
+Pillow>=7.1.2			
+protobuf==3.19.4			
+pycocotools==2.0.4			
+PyYAML>=5.3.1			
+requests>=2.23.0			
+scipy>=1.4.1			
+seaborn>=0.11.0			
+# scikit-learn==0.19.2 # CoreML quantization			
+setuptools==57.4.0			
+thop==0.0.31-2005241907			
+torch>=1.7.0			
+tensorboard>=2.4.1			
+wandb==0.12.11			
+tqdm==4.63.0			
+torchvision>=0.8.1			
+tensorflow>=2.4.1 # TFLite export			
+torchvision==0.11.1+cu111			
