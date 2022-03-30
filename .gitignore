@@ -8,3 +8,4 @@ models/
 
 # Python files
 __pycache__/
+utils/
