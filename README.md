@@ -70,5 +70,13 @@ To see the video of webcam real-time detection click:<br>
   12. https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md - model zoo(tf2);
   </ul>
 </details>
+<br>
+
+# To run this code:
+<p>
+  git clone https://github.com/EvelinaAlexiutenko/UNOCards-object-detection.git
+  <br>
+  cd UNOCards-object-detection/
+</p>
 
 
