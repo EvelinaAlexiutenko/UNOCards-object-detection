@@ -26,7 +26,7 @@ To see the video of webcam real-time detection click:<br>
   
 </details>
 <details>
-  <summary><em>Train and test the model</em></summary>
+  <summary><em>Train and detect the model</em></summary>
   To see how to define model configuration and architecture, train and detect model you need to clone my repo and open file "Train_Yolov5.ipynb".
   In folder weights I saved my post-train weights. You can use them or save your.
   <br>
