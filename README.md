@@ -72,7 +72,7 @@ To see the video of webcam real-time detection click:<br>
 </details>
 <br>
 
-# To run this code:
+# To run this project:
 <p>
   git clone https://github.com/EvelinaAlexiutenko/UNOCards-object-detection.git
   <br>
