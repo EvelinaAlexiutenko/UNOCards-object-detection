@@ -1,9 +1,11 @@
 # UNOCards-object-detection
-
 <img src="https://user-images.githubusercontent.com/58363847/160474362-899bea5b-90a0-4ea9-95ad-85eb65dd67e3.png" data-canonical src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
-
 To see the video of webcam real-time detection click:<br>
 [Real-time detection without GPU](https://youtu.be/l3xqD581TQc)
+
+## Requirements:
+cuda_11.1 <br>
+python version- 3.7.13
 
 ## Example of cards detection:
 <p float="left">
